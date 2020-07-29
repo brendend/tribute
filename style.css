@@ -1,0 +1,76 @@
+#main {
+    background-color: rgba(212, 216, 216, 0.938);
+}
+
+#img-div {
+    background-color: rgba(255, 255, 255, 0.938);
+    max-width: 95%;
+    margin: 0 auto;
+}
+
+#title {
+    font-family: 'Amaranth' Helvetica, sans-serif;
+    font-size: 55px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    color: rgba(54, 50, 50, 0.938);
+}
+
+#subheader {
+    font-family:'Amaranth' Helvetica, sans-serif;
+    font-size: 22px;
+    color: rgba(54, 50, 50, 0.938);
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#title {
+    text-align: center;
+    color: rgba(54, 50, 50, 0.938);
+}
+
+#image-caption {
+    text-align: center;
+    padding-bottom: 20px;
+    font-family:'Amaranth' Helvetica, sans-serif;
+    color: rgba(54, 50, 50, 0.938);
+    font-size: 22px;
+}
+
+#subheader {
+    text-align: center;
+    font-family:'Amaranth' Helvetica, sans-serif;
+    color: rgba(54, 50, 50, 0.938);
+}
+
+#tribute-info {
+    justify-content: center;
+    display: flex;
+    font-family:'Amaranth' Helvetica, sans-serif;
+    color: rgba(54, 50, 50, 0.938);
+    font-size: 22px;
+}
+
+h3 {
+    text-align: center;
+    font-family:'Amaranth' Helvetica, sans-serif;
+    color: rgba(54, 50, 50, 0.938);
+    font-size: 35px;
+    padding-bottom: 20px;
+}
+
+
+ul {
+    padding-top: 20px;
+    width: 20%;
+    margin: auto;
+}
